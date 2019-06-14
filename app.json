@@ -11,15 +11,15 @@
     },
     "APP_ID": {
       "description": "A unique identifier for your app.",
-      "value": "myAppId"
+      "value": "PQTRMaynNicSVhSt8XxlDMDOF1LBQVsEu1D6El8a"
     },
     "MASTER_KEY": {
       "description": "A key that overrides all permissions. Keep this secret.",
-      "value": "myMasterKey"
+      "value": "Vs2360@2019#truckapp"
     },
     "SERVER_URL": {
       "description": "URL to connect to your Heroku instance (update with your app's name + PARSE_MOUNT)",
-      "value": "http://yourappname.herokuapp.com/parse"
+      "value": "https://truckapp-vitalsis.herokuapp.com/parse"
     }
   },
   "image": "heroku/nodejs",
